@@ -1,0 +1,60 @@
+body{
+    font-family: Roboto;
+}
+.mask.mask-custom {
+    backdrop-filter: blur(1px);
+    background-color: rgba(0, 0, 0, 0.6);
+    
+  }
+
+#board-h{
+    background-image: url(../img/bgh-3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    backdrop-filter: blur(1px);
+    background-color: rgba(0, 0, 0, 0.6)  
+}
+
+#cruiser{
+    background-image: url(/img/cruiser4.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(1px);
+    background-color: rgba(0, 0, 0, 0.6);
+    
+}
+
+#skateboard{
+    background-image: url(/img/skate.avif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(1px);
+    background-color: rgba(0, 0, 0, 0.6);  
+    
+}
+
+#longboard{
+    background-image: url(/img/longboard.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(1px);
+    background-color: rgba(0, 0, 0, 0.6);  
+    
+}
+
+#racing{
+    background-image: url(/img/race-deck1.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(1px);
+    background-color: rgba(0, 0, 0, 0.6);
+    
+    
+}
+
+
